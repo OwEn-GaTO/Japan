@@ -1,8 +1,0 @@
-License
-README.md
-pyproject.toml
-setup.cfg
-src/Japan_Lizard.egg-info/PKG-INFO
-src/Japan_Lizard.egg-info/SOURCES.txt
-src/Japan_Lizard.egg-info/dependency_links.txt
-src/Japan_Lizard.egg-info/top_level.txt
