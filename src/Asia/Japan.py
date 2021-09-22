@@ -1,4 +1,5 @@
 import sys,os
+#elias Quiñones Jaime se hace pasar por desarrollador de roblox jajaja
 
 
 class Nagasaki:
