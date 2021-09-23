@@ -1,6 +1,4 @@
 import sys,os
-#elias Quiñones Jaime se hace pasar por desarrollador de roblox jajaja
-
 
 class Nagasaki:
     def __init__(self,name,sizeX = 1,sizeY = 1,expandable = True,fragmenter = "ç~`|~!ç",extension = "senior"):
